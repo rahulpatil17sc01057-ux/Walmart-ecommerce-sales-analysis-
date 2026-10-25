@@ -1,4 +1,4 @@
-Walmart Ecommerce Sales Analysis | Power BI Dashboard
+Walmart Ecommerce Sales Analysis Dashboard
 
   Project Overview
 
